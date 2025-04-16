@@ -1,0 +1,12 @@
+.cor_link{
+    color:hotpink
+}
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+h1{
+    margin: 20px;
+    text-align: center;
+}
